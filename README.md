@@ -1,4 +1,4 @@
-# channelskins
+# channel skins
 
 # [henry (1st)](https://github.com/woot-1/channelskins/blob/main/-%20henry%203mod.osk)
 [![](https://i.gyazo.com/2e4d8b4c86180a96f475970ee09f3d0e.png)](https://github.com/woot-1/channelskins/blob/main/-%20henry%203mod.osk)

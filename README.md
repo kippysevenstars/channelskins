@@ -8,3 +8,6 @@
 
 # [eaves (flower hdhr)](https://github.com/woot-1/channelskins/blob/main/Aristia(Edit%20(Mistya)).osk)
 [![](https://i.gyazo.com/f130f041d6dd61186bd4cc66ad28c61e.png)](https://github.com/woot-1/channelskins/blob/main/Aristia(Edit%20(Mistya)).osk)
+
+# [todd (neurobazaar rx)](https://github.com/woot-1/channelskins/blob/main/AristiaEdit_Mistya.osk)
+[![](https://i.gyazo.com/3eb47286e9e5eda64d83101bf023e62f.png)](https://github.com/woot-1/channelskins/blob/main/AristiaEdit_Mistya.osk)

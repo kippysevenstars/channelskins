@@ -11,3 +11,6 @@
 
 # [todd (neurobazaar rx)](https://github.com/woot-1/channelskins/blob/main/AristiaEdit_Mistya.osk)
 [![](https://i.gyazo.com/3eb47286e9e5eda64d83101bf023e62f.png)](https://github.com/woot-1/channelskins/blob/main/AristiaEdit_Mistya.osk)
+
+# [james (compost hddthrrx)](https://github.com/woot-1/channelskins/blob/main/Rafis%202018-03-26%20HDDT.osk)
+[![](https://i.gyazo.com/553dbf5fee62dbbf5a5386c9097efc40.png)](https://github.com/woot-1/channelskins/blob/main/Rafis%202018-03-26%20HDDT.osk)

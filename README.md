@@ -15,5 +15,5 @@
 # [james (compost hddthrrx)](https://github.com/woot-1/channelskins/blob/main/Rafis%202018-03-26%20HDDT.osk)
 [![](https://i.gyazo.com/553dbf5fee62dbbf5a5386c9097efc40.png)](https://github.com/woot-1/channelskins/blob/main/Rafis%202018-03-26%20HDDT.osk)
 
-# [1th grader (hidamari hddt)](https://github.com/woot-1/channelskins/blob/main/1th_gerard_cope_skin.osk)
-[![](https://i.gyazo.com/6007f58b415c2f37c7fd3376661278c2.png)](https://github.com/woot-1/channelskins/blob/main/1th_gerard_cope_skin.osk)
+# [1th grader (hidamari hddt/szutyok dt)](https://github.com/woot-1/channelskins/blob/main/Rafis%20but%20SZ.osk)
+[![](https://i.gyazo.com/3d914a8ccfb839809b9ddf1142fe345e.png)](https://github.com/woot-1/channelskins/blob/main/Rafis%20but%20SZ.osk)

@@ -17,3 +17,6 @@
 
 # [1th grader (hidamari hddt)](https://github.com/woot-1/channelskins/blob/main/Rafis%20but%20SZ.osk)
 [![](https://i.gyazo.com/3d914a8ccfb839809b9ddf1142fe345e.png)](https://github.com/woot-1/channelskins/blob/main/Rafis%20but%20SZ.osk)
+
+# [shatterdpixel (tsurupettan pass)](https://github.com/woot-1/channelskins/blob/main/ShatteredDefault.osk)
+[![](https://i.gyazo.com/d36e92fb9a3efa6ef484ae9cf861f3fc.png)](https://github.com/woot-1/channelskins/blob/main/ShatteredDefault.osk)
